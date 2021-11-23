@@ -1,4 +1,4 @@
-package com.fourapplecompose.thediceroller.ui.theme
+package com.fourapplecompose.twodiceroller.ui.theme
 
 import androidx.compose.material.Colors
 import androidx.compose.runtime.Composable

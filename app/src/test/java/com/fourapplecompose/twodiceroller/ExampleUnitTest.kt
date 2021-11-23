@@ -1,4 +1,4 @@
-package com.fourapplecompose.thediceroller
+package com.fourapplecompose.twodiceroller
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.fourapplecompose.thediceroller
+package com.fourapplecompose.twodiceroller
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.Text
